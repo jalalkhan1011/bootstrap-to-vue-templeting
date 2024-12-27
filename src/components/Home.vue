@@ -395,7 +395,7 @@
                 </div>
             </div>
             <div class="row">
-                <carousel :items-to-show="1.5">
+                <carousel :items-to-show="2">
                     <slide v-for="slide in 10" :key="slide">
                         <div class="testi_item">
                         <div class="row">
